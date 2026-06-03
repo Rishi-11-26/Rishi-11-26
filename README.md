@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Rishi Adepu 👋
 
-<!--
-**Rishi-11-26/Rishi-11-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer | Problem Solver | Lifelong Learner
 
-Here are some ideas to get you started:
+Passionate about building real-world applications, exploring AI technologies, and creating solutions that make everyday life easier.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 Computer Science Student
+- 💻 Interested in Full Stack Development, AI, and Software Engineering
+- 🌱 Currently improving my DSA, Web Development, and AI skills
+- 🚀 Building projects to strengthen my portfolio and practical experience
+- 🎯 Goal: Become a skilled Software Engineer and contribute to impactful products
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- C
+- Python
+- HTML
+- CSS
+
+### Tools & Technologies
+- Git
+- GitHub
+- VS Code
+- Vercel
+- Firebase
+
+### Currently Learning
+- AI & LLM Applications
+- Data Structures & Algorithms
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 AI-Powered Applications
+Building AI-driven solutions using modern APIs and LLM technologies.
+
+### 🌐 Personal Portfolio
+A responsive portfolio website showcasing projects, skills, and achievements.
+
+---
+
+## 🤝 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/rishi-adepu-5a254a390
+- Portfolio: https://rishiadepu.vercel.app/
+- Email: rishiadepu26@gmail.com
+
+---
+
+### 💡 Learn • Build • Grow
